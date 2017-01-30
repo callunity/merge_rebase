@@ -9,4 +9,7 @@ Merging keeps history obvious by keeping track of what was changed and when. Thi
 
   The downside is that there are a lot of merge commits all over the repository, and sometimes it's still difficult to reason about what actually happened.
 
-
+Important takeaways: 
+* Rebasing can be a safe strategy (so long as master is never rebased).
+* The work referred to by "local" and "remote" will differ based on whether you are using `merge` or `rebase`.
+* Aliasing commonly-used commands allows you to efficiently harness the power of git.
