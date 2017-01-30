@@ -19,3 +19,9 @@
 ### git please
 * `git config --local alias.please 'push --force-with-lease'
 * replace remote with rebased contents
+
+
+
+
+##### Credits
+Most of these git aliases came from [Hackernoon](https://hackernoon.com/lesser-known-git-commands-151a1918a60)
